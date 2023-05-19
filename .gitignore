@@ -1,3 +1,4 @@
 *.txt
 cours/
 cmake-build-debug/
+.idea/
